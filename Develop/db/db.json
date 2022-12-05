@@ -1,6 +1,19 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": "0",
+      "title": "To Do's",
+      "text": "white elephant gift"
+    },
+    {
+      "id": "1",
+      "title": "christmas list",
+      "text": "clothes, shoes, blanket"
+    },
+    {
+      "id": "2",
+      "title": "shopping cart",
+      "text": "cream cheese, pretzels, chocolate"
     }
-]
+  ]
+}

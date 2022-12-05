@@ -1,10 +1,10 @@
 // express.router helps with middleware routing 
 const router = require('express').Router();
 
-const routeNotes = require('./routeNotes');
+const notesRoutes = require('./noteRoutes');
 
 // uses middleware function
-router.use(routeNotes);
+router.use(notesRoutes);
 
 // mapping router
 module.exports = router;
