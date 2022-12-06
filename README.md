@@ -14,4 +14,6 @@ See LICENSE in the repo.
 
 ## url and screenshot
 https://kenna-11-note-taker.herokuapp.com/
+<img width="1136" alt="Screenshot 2022-12-05 at 6 21 17 PM" src="https://user-images.githubusercontent.com/111388055/205784981-47b67aec-092f-4871-bf5e-2c020ab2f851.png">
+<img width="1136" alt="Screenshot 2022-12-05 at 6 21 42 PM" src="https://user-images.githubusercontent.com/111388055/205784984-99a974c6-8da0-45bc-94c5-7a8e3c2d545e.png">
 
