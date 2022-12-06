@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-const { notes } = require('../../db/db');
+const { notes } = require('../../db/db.json');
 
 // imports function for creating and deleting notes
 const {
